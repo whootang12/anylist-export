@@ -21,8 +21,10 @@
     "document": "documentation build lib/index.js -f html -o docs"
   },
   "dependencies": {
+    "anylist": "^0.8.4",
     "form-data": "^3.0.0",
     "got": "^10.3.0",
+    "pdfkit": "^0.17.1",
     "protobufjs": "5.0.3",
     "reconnecting-websocket": "^4.2.0",
     "tough-cookie": "^3.0.1",

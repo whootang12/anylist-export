@@ -2,6 +2,17 @@
 
 ![node-current](https://img.shields.io/node/v/anylist)
 
+
+### To use download.js:
+
+First, set your environment variables:
+  `export ANYLIST_EMAIL="your-email@example.com"`
+  `export ANYLIST_PASSWORD="your-password"`
+Then run the script:
+  `node download.js`
+
+--------------------------------
+
 ## a wrapper for AnyList's API (unofficial, reverse engineered)
 
 ### Install

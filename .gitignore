@@ -92,3 +92,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Recipe PDFs
+recipe-pdfs/
+.DS_Store
